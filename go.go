@@ -1,1 +1,1 @@
-package gogo
+package main

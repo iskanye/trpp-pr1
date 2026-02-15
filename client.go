@@ -1,5 +1,5 @@
-package client
+package main
 
-func Client(int i) int {
+func Client(i int) int {
 	return i
 }
